@@ -105,27 +105,75 @@
   "Addons": [
     {
       "id": 1,
-      "name_add": "Technical Vehicle",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/technical bp.mcaddon",
-      "addR_url": "https://aliendro.id/uploads/demo/premiummods/technical rp.mcaddon",
-      "view_add": "file:///android_asset/cat.png",
-      "des_add": "https://aliendro.id/uploads/demo/premiummods/car.html"
+      "name_add": "Addon: World Wild Animals",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1427&lang=en bp.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1427&lang=en rp.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2023-01/fe06233c40f74212ba9c8d3e187684e1_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2023-01/fe06233c40f74212ba9c8d3e187684e1_1-520x245.png"
     },
     {
       "id": 2,
-      "name_add": "Eevee Family Battle and Bank Pets",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Eevee B.mcaddon",
-      "addR_url": "https://aliendro.id/uploads/demo/premiummods/Eevee R.mcaddon",
-      "view_add": "https://aliendro.id/uploads/demo/premiummods/eve.png",
-      "des_add": "file:///android_asset/sample_addons.html"
+      "name_add": "Addon: Morphing Bracelet",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1729&lang=en B.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1591&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-08/thumbnail-mcpedl_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-08/thumbnail-mcpedl_1-520x245.png"
     },
     {
       "id": 3,
-      "name_add": "Flora Fishing",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
-      "addR_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
-      "view_add": "file:///android_asset/fish.png",
-      "des_add": "https://aliendro.id/uploads/demo/premiummods/fish.html"
+      "name_add": "Addon: FURNICRAFT 3D",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1155&lang=en R.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1154&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2021-12/furnicraft-3d-block_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2021-12/furnicraft-3d-block_1-520x245.png"
+    },
+    {
+      "id": 4,
+      "name_add": "Addon: Nico's Item Expansion",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=2016&lang=en R.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=2017&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-item-expansion-v19_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-item-expansion-v19_1-520x245.png"
+    },
+    {
+      "id": 5,
+      "name_add": "Addon: Minecraft On Wheels",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=162&lang=en R.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=162&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-01/minecraftonwheels_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-01/minecraftonwheels_1-520x245.png"
+    },
+    {
+      "id": 6,
+      "name_add": "Addon: Definitive Tree Capitator",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=972&lang=en R.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=972&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-07/1657577248_202203041605331024x576png_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-07/1657577248_202203041605331024x576png_1-520x245.png"
+    },
+    {
+      "id": 7,
+      "name_add": "Addon: True Tools",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1779&lang=en R.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1779&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2023-12/mcpedl.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2023-12/mcpedl.png"
+    },
+   {
+      "id": 8,
+      "name_add": "Addon: Master TNT",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1809&lang=en R.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=1809&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2024-01/fdrer_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2024-01/fdrer_1-520x245.png"
+    },
+  {
+      "id": 9,
+      "name_add": "Addon: Lance Furniture",
+      "addB_url": "https://mcpeland.io/index.php?do=download&id=1350&lang=en R.mcaddon",
+      "addR_url": "https://mcpeland.io/index.php?do=download&id=955&lang=en R.mcaddon",
+      "view_add": "https://mcpeland.io/uploads/posts/2022-04/working-security-cameras-lance-furniture-beta_1-520x245.png",
+      "des_add": "https://mcpeland.io/uploads/posts/2022-04/working-security-cameras-lance-furniture-beta_1-520x245.png"
     }
   ],
   "Maps": [
