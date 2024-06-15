@@ -130,16 +130,16 @@
     {
       "id": 4,
       "name_add": "Addon: Nico's Item Expansion",
-      "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/nicos-item-expansion-v1_9_10-server.mcaddon R.mcaddon",
-      "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/nicos-item-expansion-v1_9_10-server.mcaddon R.mcaddon",
+      "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/nicos-item-expansion-v1_9_10-server.mcaddon",
+      "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/nicos-item-expansion-v1_9_10-server.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-item-expansion-v19_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-item-expansion-v19_1-520x245.png"
     },
     {
       "id": 5,
       "name_add": "Addon: Minecraft On Wheels",
-      "addB_url": "https://mcpeland.io/index.php?do=download&id=162&lang=en R.mcaddon",
-      "addR_url": "https://mcpeland.io/index.php?do=download&id=162&lang=en R.mcaddon",
+      "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/dpminecraftonwheels%20(1).mcaddon",
+      "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/dpminecraftonwheels%20(1).mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2022-01/minecraftonwheels_1-520x245.png",
       "des_add": "https://mcpeland.io/uploads/posts/2022-01/minecraftonwheels_1-520x245.png"
     },
