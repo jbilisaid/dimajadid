@@ -105,7 +105,7 @@
   "Addons": [
     {
       "id": 1,
-      "name_add": "Addon: World Wild Animals",
+      "name_add": "World Wild Animals",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/wwa1_6%20(1).mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/wwa1_6%20(1).mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2023-01/fe06233c40f74212ba9c8d3e187684e1_1-520x245.png",
@@ -113,7 +113,7 @@
     },
     {
       "id": 2,
-      "name_add": "Addon: Morphing Bracelet",
+      "name_add": "Morphing Bracelet",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/morphing_bracelet.mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/morphing_bracelet_1_20_40.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2022-08/thumbnail-mcpedl_1-520x245.png",
@@ -121,7 +121,7 @@
     },
     {
       "id": 3,
-      "name_add": "Addon: FURNICRAFT 3D",
+      "name_add": "FURNICRAFT 3D",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/furnicraft.mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/furnicraft.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2021-12/furnicraft-3d-block_1-520x245.png",
@@ -129,7 +129,7 @@
     },
     {
       "id": 4,
-      "name_add": "Addon: Nico's Item Expansion",
+      "name_add": "Nico Item Expansion",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/nicos-item-expansion-v1_9_10-server.mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/nicos-item-expansion-v1_9_10-server.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-05/nicos-item-expansion-v19_1-520x245.png",
@@ -137,7 +137,7 @@
     },
     {
       "id": 5,
-      "name_add": "Addon: Minecraft On Wheels",
+      "name_add": "Minecraft On Wheels",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/dpminecraftonwheels%20(1).mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/dpminecraftonwheels%20(1).mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2022-01/minecraftonwheels_1-520x245.png",
@@ -145,7 +145,7 @@
     },
     {
       "id": 6,
-      "name_add": "Addon: Definitive Tree Capitator",
+      "name_add": "Definitive Tree Capitator",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/def_tree_capitator.mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/def_tree_capitator.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2022-07/1657577248_202203041605331024x576png_1-520x245.png",
@@ -153,7 +153,7 @@
     },
     {
       "id": 7,
-      "name_add": "Addon: True Tools",
+      "name_add": "True Tools",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/true_tools.mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/true_tools.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2023-12/mcpedl.png",
@@ -161,7 +161,7 @@
     },
    {
       "id": 8,
-      "name_add": "Addon: Master TNT",
+      "name_add": "Master TNT",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/master_tnt.mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/master_tnt.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2024-01/fdrer_1-520x245.png",
@@ -169,7 +169,7 @@
     },
   {
       "id": 9,
-      "name_add": "Addon: Lance Furniture",
+      "name_add": "Lance Furniture",
       "addB_url": "https://github.com/jbilisaid/dimajadid/raw/main/Lance%20Furniture.mcaddon",
       "addR_url": "https://github.com/jbilisaid/dimajadid/raw/main/Lance%20Furniture.mcaddon",
       "view_add": "https://mcpeland.io/uploads/posts/2022-04/working-security-cameras-lance-furniture-beta_1-520x245.png",
@@ -181,7 +181,7 @@
       "id": 1,
       "name_map": "One Blocco 2023",
       "view_map": "file:///android_asset/bloco.jpeg",
-      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco 2023.mcworld",
+      "map_url": "https://aliendro.id/uploads/demo/premiummods/One Blocco2023.mcworld",
       "des_map": "file:///android_asset/samplemaps.html"
     },
     {
